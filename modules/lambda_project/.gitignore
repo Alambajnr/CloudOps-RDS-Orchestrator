@@ -1,0 +1,32 @@
+# Terraform state and backup files
+*.tfstate
+*.tfstate.backup
+
+# Terraform crash logs
+crash.log
+
+# Terraform directories
+.terraform/
+terraform.tfvars
+
+# Compiled Lambda packages
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.log

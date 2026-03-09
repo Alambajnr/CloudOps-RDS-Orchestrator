@@ -1,0 +1,7 @@
+**/ .terraform/*
+*.tfstate*
+**/__pycache__/*
+.env
+.aws
+*.exe
+.terraform.lock.hcl
