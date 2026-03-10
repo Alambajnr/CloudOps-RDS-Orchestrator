@@ -40,7 +40,7 @@ graph TD
 
 ## 📈 Financial Impact (The "Bottom Line")
 
-Automation isn't just about convenience—it's about fiscal responsibility.
+Automation isn't just about convenience,it's about fiscal responsibility.
 
 | Metric | 24/7 Runtime | Automated (13/5) | Savings |
 | --- | --- | --- | --- |
